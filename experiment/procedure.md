@@ -11,6 +11,13 @@ Follow these steps to determine the Removal of Hardness of Water by Ion Exchange
 8. Now add another 1 ml dichromate and again test it with the indicator until no blue color is obtained. The reading of the burette at this point will give the volume required for oxidation.
 9. Repeat the titration for concordant readings.
 
+#### **Slide-1 Procedure**
+1. Click on the tap to open it and titrate it.
+2. Drop a few drops of indicator on the petri dish with dropper.
+3. Then touch the glass rod to it.
+4. If the colour changes to blue titration isn't complete,if it remains green titration is complete.
+5. Rinse the petri dish by clicking it after every use.
+
 #### **Safety Precautions**
 
 1. Titrate with 1 ml at a time.
